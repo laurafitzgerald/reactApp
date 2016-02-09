@@ -1,5 +1,5 @@
 {
-  "name": "Cycling Application",
+  "name": "CyclingApplication",
   "version": "0.0.1",
   "description": "A Fitness Application for Cyclists",
   "dependencies": {
@@ -8,7 +8,8 @@
     "react-router": "1.0.0",
     "lodash": "^4.0.0",
     "history": "1.13.x",
-    "superagent" : "1.6.1"
+    "superagent" : "1.6.1",
+    "lodash" :"^4.0.0"
   },
   "devDependencies": {
     "reactify": "^1.1.1"
